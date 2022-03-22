@@ -9,7 +9,7 @@ title: Floodplain Inundation Calculator
 version: 1.0
 doi: 
 date-released: 2022-02-15
-license: GPL v3
+license: GPL-3.0-or-later
 repository-code: https://github.com/usk92/Floodplain-Inundation-Calculator
 keywords:
   - research software
