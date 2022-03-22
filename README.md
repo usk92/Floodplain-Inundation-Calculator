@@ -14,3 +14,9 @@ For Use Instructions, please read the [REPORT](Report.pdf) included in this dire
 
 These instructions can also be watched in a video (english, with subtitles):
 https://www.youtube.com/watch?v=OH0GrOaJ0NY
+
+## License
+see [License](LICENSE) 
+
+## How to cite
+Kaden, U. (2022). Floodplain-Inundation-Calculator. GitHub repository. Retrieved from https://github.com/usk92/Floodplain-Inundation-Calculator
