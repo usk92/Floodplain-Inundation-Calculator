@@ -1,0 +1,19 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Kaden
+    given-names: Ute Susanne
+    orcid: https://orcid.org/my-orcid?orcid=0000-0003-3167-959X
+
+title: Floodplain Inundation Calculator 
+version: 1.0
+doi: 
+date-released: 2022-02-15
+license: GPL v3
+repository-code: https://github.com/usk92/Floodplain-Inundation-Calculator
+keywords:
+  - research software
+  - QGIS
+  - python
+  - floodplain
+  - inundation
