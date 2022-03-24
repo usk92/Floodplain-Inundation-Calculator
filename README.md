@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=OH0GrOaJ0NY
 see [License](LICENSE) 
 
 ## How to cite
-Kaden, U. (2022). Floodplain-Inundation-Calculator. GitHub repository. Retrieved from https://github.com/usk92/Floodplain-Inundation-Calculator
+Kaden, U.S. (2022). Floodplain-Inundation-Calculator plugin for QGIS 3. Version 0.1. GitHub repository. Retrieved from https://github.com/usk92/Floodplain-Inundation-Calculator
